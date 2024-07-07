@@ -28,7 +28,7 @@ nav img {
   width: 150px;
 }
 
-/* desiging the navigation menu links */
+/* designing the navigation menu links */
 nav ul {
   display: flex;
   align-items: center;
@@ -75,7 +75,7 @@ main {
   font-weight: 400;
 }
 
-/* desinging the achievement card */
+/* designing the achievement card */
 .achievement {
   display: flex;
   align-items: center;

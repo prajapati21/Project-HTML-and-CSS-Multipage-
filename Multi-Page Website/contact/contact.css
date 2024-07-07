@@ -1,4 +1,4 @@
-/* css reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -28,7 +28,7 @@
     width: 150px;
   }
   
-  /* desiging the navigation menu links */
+  /* designing the navigation menu links */
   nav ul {
     display: flex;
     align-items: center;
